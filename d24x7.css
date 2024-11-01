@@ -1,0 +1,12 @@
+.d24x7Item
+{
+	border: 1px Dotted #333;
+	background-color: #EEE;
+	margin-bottom: 10px;
+}
+
+.d24x7Item img
+{
+	padding: 2px;
+	background-color: #FFF;
+}
